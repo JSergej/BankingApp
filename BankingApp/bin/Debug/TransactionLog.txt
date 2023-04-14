@@ -1,0 +1,37 @@
+
+Time:2/23/2023 9:05:43 AM - Acc Number: 111111 - Info: €10.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €23010.00
+Time:2/23/2023 9:07:07 AM - Acc Number: 111111 - Info: €10.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €23000.00
+Time:2/23/2023 10:07:51 AM - Acc Number: 111115 - Info: €12.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1350445.00
+Time:2/23/2023 3:08:33 PM - Acc Number: 111115 - Info: €85.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1350372.00
+Time:2/23/2023 3:08:43 PM - Acc Number: 111115 - Info: €450.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1349922.00
+Time:2/24/2023 9:18:21 AM - Acc Number: 111115 - Info: €1,500.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1351957.00
+Time:2/24/2023 9:59:42 AM - Acc Number: 111115 - Info: €1,000.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1351457.00
+Time:2/24/2023 10:01:46 AM - Acc Number: 111115 - Info: €58,742.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1409199.00
+Time:2/24/2023 10:04:39 AM - Acc Number: 111115 - Info: €80,000.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1430457.00
+Time:2/24/2023 10:06:24 AM - Acc Number: 111115 - Info: €8,500,000.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €9850457.00
+Time:2/24/2023 10:23:54 AM - Acc Number: 111111 - Info: €45,000.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €68000.00
+Time:2/24/2023 10:26:49 AM - Acc Number: 111111 - Info: €45,000.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €68000.00
+Time:2/24/2023 10:29:03 AM - Acc Number: 111115 - Info: €580,000.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1930457.00
+Time:2/24/2023 10:29:15 AM - Acc Number: 111115 - Info: €580,000.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1350457.00
+Time:2/24/2023 10:32:14 AM - Acc Number: 111115 - Info: €52,358.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1402815.00
+Time:2/24/2023 10:42:22 AM - Acc Number: 111111 - Info: €6.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €23006.00
+Time:2/24/2023 10:54:07 AM - Acc Number: 111111 - Info: €1,000.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €22000.00
+Time:3/3/2023 10:33:03 AM - Acc Number: 111115 - Info: €450.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €1350007.00
+Time:3/6/2023 10:34:19 AM - Acc Number: 111115 - Info: €4,825,000.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €6175457.00
+Time:3/6/2023 12:09:30 PM - Acc Number: 111111 - Info: €25.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €23025.00
+Time:3/6/2023 12:09:45 PM - Acc Number: 111111 - Info: €100.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €22925.00
+Time:09-Mar-23 22:20:09 - Acc Number: 111111 - Info: €5,500.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €28500.00
+Time:09-Mar-23 23:48:49 - Acc Number: 111113 - Info: €1,000.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €147570.00
+Time:09-Mar-23 23:49:22 - Acc Number: 111113 - Info: €0.50 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €147569.50
+Time:09-Mar-23 23:50:39 - Acc Number: 111113 - Info: €458.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €148027.50
+Time:10-Mar-23 00:01:27 - Acc Number: 111111 - Info: €1,452.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €24452.00
+Time:10-Mar-23 09:06:20 - Acc Number: 111111 - Info: €1,236.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €24236.00
+Time:10-Mar-23 11:37:31 - Acc Number: 111113 - Info: €1,500.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €150070.00
+Time:10-Mar-23 11:38:33 - Acc Number: 111113 - Info: €1,500.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €148570.00
+Time:10-Mar-23 11:38:39 - Acc Number: 111113 - Info: €1,500.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €150070.00
+Time:10-Mar-23 11:40:11 - Acc Number: 111113 - Info: €1,500.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €148570.00
+Time:10-Mar-23 11:42:23 - Acc Number: 111113 - Info: €1,500.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €150070.00
+Time:10-Mar-23 11:47:05 - Acc Number: 111113 - Info: €1,500.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €148570.00
+Time:10-Mar-23 11:48:58 - Acc Number: 111113 - Info: €1,500.00 lodged successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €150070.00
+Time:10-Mar-23 11:52:52 - Acc Number: 111113 - Info: €70.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €150000.00
+Time:14/04/2023 12:32:33 - Acc Number: 111111 - Info: €1,000.00 withdrawn successfully ! - Amount: €System.Windows.Forms.TextBox, Text:  - Balance: €22000.00
